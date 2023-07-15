@@ -1,0 +1,26 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+body {
+  background-color: #f8f9fa;
+  color: #333333;
+}
+
+.container {
+  margin-top: 3rem;
+}
+
+.contact-info li {
+  list-style: none;
+  margin-bottom: 1rem;
+}
